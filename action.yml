@@ -1,0 +1,6 @@
+name: 'Test'
+description: "Test Custom Action"
+
+runs:
+  using: 'node16'
+  main: 'dist/index.js'
